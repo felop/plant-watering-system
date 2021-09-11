@@ -1,5 +1,5 @@
 # plant-watering-system
-[![](https://img.shields.io/badge/based%20on-Teensy%204.1-blue)](link=https://www.pjrc.com/store/teensy41.html)
+[![](https://img.shields.io/badge/based%20on-Teensy%204.1-blue)](https://www.pjrc.com/store/teensy41.html)
 
 An automatic watering system for my desk plant.
 
