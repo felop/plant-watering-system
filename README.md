@@ -7,9 +7,9 @@ It's based on [teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
 To do list:
 [X] make a user interface (screen)
+[X] build a water pumping system
 [X] reccord data about moisure
 [ ] learn from it
 [ ] integrate it in the main program
 [ ] add more features (notify when the tank is empty, add UPS)
 [ ] 3D print the final casing
-[ ] 
