@@ -3,7 +3,7 @@
 
 An automatic watering system for my desk plant.
 
-It's based on [teensy 4.1](https://www.pjrc.com/store/teensy41.html)
+<br/>
 
 ### To do list:
 
